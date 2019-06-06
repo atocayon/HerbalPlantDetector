@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+ Copyright 2014 The Android Open Source Project
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rela"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#0000ff"
+        >
+
+        <ImageButton
+            android:onClick="more"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@color/green"
+            android:backgroundTint="#0000ff"
+            android:padding="7dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/pitahc_logo" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PITAHC Herbal Plant Detector"
+            android:textColor="@android:color/white"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:padding="5dp"
+            />
+        <LinearLayout
+            android:gravity="right"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageButton
+                android:onClick="info"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:background="#0000ff"
+                android:padding="7dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/info" />
+        </LinearLayout>
+
+    </Toolbar>
+
+        <com.herbal.doh.tflitecamerademo.AutoFitTextureView
+            android:id="@+id/texture"
+            android:layout_below="@+id/toolbar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+
+
+    <FrameLayout
+        android:layout_below="@+id/texture"
+        android:id="@+id/control"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#008000">
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:paddingLeft="15dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <TextView android:id="@+id/text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="5dp"
+                    android:textColor="#FFF"
+                    android:textSize="20sp"
+                    />
+                <Button
+                    android:id="@+id/bawang"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Click here for more info..."
+                    android:background="@android:color/transparent"
+                    android:textColor="#FFF"
+                    android:textSize="12sp"
+                    android:textStyle="italic"
+                    android:visibility="gone"
+                    android:onClick="onclickbawang"
+                    />
+                <Button
+                    android:id="@+id/akapulko"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Click here for more info..."
+                    android:background="@android:color/transparent"
+                    android:textColor="#FFF"
+                    android:textSize="12sp"
+                    android:textStyle="italic"
+                    android:visibility="gone"
+                    android:onClick="onclickakapulko"
+                    />
+                <Button
+                    android:id="@+id/ampalaya"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Click here for more info..."
+                    android:background="@android:color/transparent"
+                    android:textColor="#FFF"
+                    android:textSize="12sp"
+                    android:textStyle="italic"
+                    android:visibility="gone"
+                    android:onClick="onclickampalaya"
+                    />
+                <Button
+                    android:id="@+id/bayabas"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Click here for more info..."
+                    android:background="@android:color/transparent"
+                    android:textColor="#FFF"
+                    android:textSize="12sp"
+                    android:textStyle="italic"
+                    android:visibility="gone"
+                    android:onClick="onclickbayabas"
+                    />
+                <Button
+                    android:id="@+id/lagundi"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Click here for more info..."
+                    android:background="@android:color/transparent"
+                    android:textColor="#FFF"
+                    android:textSize="12sp"
+                    android:textStyle="italic"
+                    android:visibility="gone"
+                    android:onClick="onclicklagundi"
+                    />
+                <Button
+                    android:id="@+id/niyog_niyogan"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Click here for more info..."
+                    android:background="@android:color/transparent"
+                    android:textColor="#FFF"
+                    android:textSize="12sp"
+                    android:textStyle="italic"
+                    android:visibility="gone"
+                    android:onClick="onclickniyog_niyogan"
+                    />
+                <Button
+                    android:id="@+id/sambong"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Click here for more info..."
+                    android:background="@android:color/transparent"
+                    android:textColor="#FFF"
+                    android:textSize="12sp"
+                    android:textStyle="italic"
+                    android:visibility="gone"
+                    android:onClick="onclicksambong"
+                    />
+                <Button
+                    android:id="@+id/tsaang_gubat"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Click here for more info..."
+                    android:background="@android:color/transparent"
+                    android:textColor="#FFF"
+                    android:textSize="12sp"
+                    android:textStyle="italic"
+                    android:visibility="gone"
+                    android:onClick="onclicktsaang_gubat"
+                    />
+                <Button
+                    android:id="@+id/ulasimang_bato"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Click here for more info..."
+                    android:background="@android:color/transparent"
+                    android:textColor="#FFF"
+                    android:textSize="12sp"
+                    android:textStyle="italic"
+                    android:visibility="gone"
+                    android:onClick="onclickulasimang_bato"
+                    />
+                <Button
+                    android:id="@+id/yerba_buena"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Click here for more info..."
+                    android:background="@android:color/transparent"
+                    android:textColor="#FFF"
+                    android:textSize="12sp"
+                    android:textStyle="italic"
+                    android:visibility="gone"
+                    android:onClick="onclickyerba_buena"
+                    />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="\n\n\n\n\n"
+                    />
+            </LinearLayout>
+
+        </ScrollView>
+
+
+
+    </FrameLayout>
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end|bottom"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_margin="16dp"
+        android:src="@drawable/more"
+        app:backgroundTint="#0000ff"
+        android:onClick="more"
+        android:padding="0dp"
+        android:scaleType="fitXY"
+        app:borderWidth="0dp"
+        app:useCompatPadding="true"
+        app:maxImageSize="40dp"
+        />
+
+
+</RelativeLayout>

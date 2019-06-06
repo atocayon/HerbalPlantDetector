@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.herbal.doh.tflitecamerademo">
+
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/pitahc_logo"
+        android:label="PITAHC Herbal Plant Detector"
+        android:roundIcon="@drawable/pitahc_logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        <activity android:name="com.herbal.doh.tflitecamerademo.Project_Info"></activity>
+        <activity android:name="com.herbal.doh.tflitecamerademo.Developers" />
+        <activity
+            android:name="com.herbal.doh.tflitecamerademo.CameraActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.herbal.doh.tflitecamerademo.YerbaBuena" />
+        <activity android:name="com.herbal.doh.tflitecamerademo.Bayabas" />
+        <activity android:name="com.herbal.doh.tflitecamerademo.Bawang" />
+        <activity android:name="com.herbal.doh.tflitecamerademo.UlasimangBato" />
+        <activity android:name="com.herbal.doh.tflitecamerademo.Lagundi" />
+        <activity android:name="com.herbal.doh.tflitecamerademo.Ampalaya" />
+        <activity android:name="com.herbal.doh.tflitecamerademo.TsaangGubat" />
+        <activity android:name="com.herbal.doh.tflitecamerademo.NiyogNiyogan" />
+        <activity android:name="com.herbal.doh.tflitecamerademo.Akapulko" />
+        <activity android:name="com.herbal.doh.tflitecamerademo.Sambong" />
+        <activity android:name="com.herbal.doh.tflitecamerademo.Manual" />
+        <activity android:name="com.herbal.doh.tflitecamerademo.About" />
+        <activity android:name="com.herbal.doh.tflitecamerademo.Capture2Fragment" />
+    </application>
+
+</manifest>

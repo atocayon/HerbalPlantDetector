@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Project_Info">
+
+    <Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#0000ff"
+        >
+        <ImageButton
+            android:id="@+id/back"
+            android:layout_marginLeft="0dp"
+            android:paddingLeft="0dp"
+            android:adjustViewBounds="true"
+            android:scaleType="fitCenter"
+            android:layout_width="60dp"
+            android:layout_height="50dp"
+            android:src="@drawable/back_arrow"
+            android:backgroundTint="#0000ff"
+            />
+        <TextView
+            android:fontFamily="sans-serif"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Project Info"
+            android:textColor="@android:color/white"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            />
+    </Toolbar>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:layout_below="@id/toolbar"
+        android:src="@drawable/departmentofhealth" />
+
+    <ScrollView
+        android:layout_below="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/txtLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/imageView"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="20dp"
+                android:gravity="center_horizontal"
+                android:padding="10dp"
+                android:layout_gravity="center_horizontal|center"
+                android:text="This guide contains details about ten herbs that have gone through a thorough study of the National Integrated Research Program on Medicinal Plants (NIRPROMP). These ten are the Lagundi, Tsaang Gubat, Yerba Buena, Sambong, Niyog niyogan, Akapulko, Bayabas, Bawang, Ulasimang Bato and Ampalaya. They are found to be safe and effective against various illnesses. And ten of these are taken into consideration by the health department to use against common illnesses."
+                android:textAlignment="center"
+                android:textSize="14dp" />
+
+            <TextView
+                android:id="@+id/txtLabel1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="The benefits of using medicinal plants are great. It is very easy to find and grow in our surroundings. And its proper use is one way to reduce our continued reliance on importers and expensive pharmaceutical products."
+                android:gravity="center_horizontal"
+                android:layout_below="@+id/imageView"
+                android:layout_centerHorizontal="true"
+                android:textSize="14dp"/>
+
+            <TextView
+                android:id="@+id/txtLabel2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="The health department, led by Dr. Juan M. Flavier zealously promotes the use of herbs that are safe and effective against common diseases."
+                android:gravity="center_horizontal"
+                android:layout_below="@+id/imageView"
+                android:layout_centerHorizontal="true"
+                android:textSize="14dp"/>
+
+            <TextView
+                android:id="@+id/txtLabel3"
+                android:layout_marginLeft="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="50dp"
+                android:text="Traditional Medicine Unit"
+                android:gravity="left"
+                android:textStyle="italic"
+                android:layout_below="@+id/imageView"
+                android:layout_centerHorizontal="true"
+                android:textSize="16dp"/>
+            <TextView
+                android:id="@+id/txtLabel4"
+                android:layout_marginLeft="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="November 14, 1992"
+                android:gravity="left"
+                android:textStyle="italic"
+                android:layout_below="@+id/imageView"
+                android:layout_centerHorizontal="true"
+                android:textSize="14dp"/>
+        </LinearLayout>
+
+
+    </ScrollView>
+
+</RelativeLayout>

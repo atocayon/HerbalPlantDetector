@@ -1,0 +1,4 @@
+#Mon Mar 11 07:39:59 CST 2019
+base.0=E\:\\Documents\\tflite_new\\tflite\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\19
+renamed.0=classes.dex
+file.0=E\:\\Documents\\tflite_new\\tflite\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\19\\classes.dex

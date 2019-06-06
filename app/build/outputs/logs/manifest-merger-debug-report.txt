@@ -1,0 +1,292 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:2:1-43:12
+MERGED from [com.android.support:design:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/9e6f33ea76f86dd6660d6e35cbc39845/AndroidManifest.xml:17:1-24:12
+MERGED from [com.wonderkiln:camerakit:0.13.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/90c03d1cd2e46d648cb923adad094552/AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/fbd64542d9f9344902ab13204f683078/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/29149cc7947304334d076c8eb83d5220/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/1724ec20f5378c89666a85e594031196/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v13:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/7e1cf860ece5a085c121e67133fd68a6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/cdef5221db1a5343a2b09114c32ed3ca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/d513b143a2360230465a5123bd748716/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/920f554cf7ba866243d152048f29eabf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/e899682160c140066f0c3f39cb6bb8d7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/137aea48224609196295b6f00e1cfc2d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/ccdcb3a2592e921f3d3c081569599856/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/1d1d16477bd5d83d0c86e16ef03a6f69/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/5a2b9cfc1c4f071d49f7338a555a740d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/0f10bea5a231f8fdee54524185903b37/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/32ed81bceb2ce2611da3a2ec5595cc36/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/8684ceb2686399ab1c65d2f4884d84a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/1a0508d4d99c4669405855e500ab4993/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/50c6959e248a9f6a169c473b23ce8afd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/e0f37a60b234d19fbc9852c7d63e6ae8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/f6413a6d141857d427f1d149b1430d2d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/8eff9173d6565a1cac6ceffafa92b780/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/55095e01a2c8a61f32831f427d58e18b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/c0d3bd0d51cf0d91362c49436f923a48/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/e446386ea450a781f2d75024b7fff277/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/adc6453c3c92835415e62ea2ff8876a3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/fe2a0ca31c080490e0e12ebe1ac93e80/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/729c8669c0c924df438c0e74d29ca7ee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/8e75627449b5c0a82d2ad743e0e476a4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.0.2] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/33470ecdb6895c02e902e2045166637a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/217bf7a4f7d9665033038b6c95ab16df/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/bec428ea48715663dcf1ea74b83f5032/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/d25f4a652825dfb85793e8d1e7700568/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/f84d1e68b1907a09a670bdac92047159/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/0713b11703f9ace6e6d1b6acb55ce712/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/b81972940084a7571b72ef97fd2de183/AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/41448476190de88ea7b10419777f8e41/AndroidManifest.xml:2:1-11:12
+INJECTED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:2:1-43:12
+		INJECTED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:2:1-43:12
+		INJECTED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:5:5-65
+MERGED from [com.wonderkiln:camerakit:0.13.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/90c03d1cd2e46d648cb923adad094552/AndroidManifest.xml:11:5-65
+MERGED from [com.wonderkiln:camerakit:0.13.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/90c03d1cd2e46d648cb923adad094552/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:5:22-62
+uses-feature#android.hardware.camera
+ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:7:5-60
+MERGED from [com.wonderkiln:camerakit:0.13.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/90c03d1cd2e46d648cb923adad094552/AndroidManifest.xml:14:5-60
+MERGED from [com.wonderkiln:camerakit:0.13.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/90c03d1cd2e46d648cb923adad094552/AndroidManifest.xml:14:5-60
+	android:name
+		ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:7:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:8:5-70
+MERGED from [com.wonderkiln:camerakit:0.13.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/90c03d1cd2e46d648cb923adad094552/AndroidManifest.xml:15:5-17:36
+MERGED from [com.wonderkiln:camerakit:0.13.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/90c03d1cd2e46d648cb923adad094552/AndroidManifest.xml:15:5-17:36
+	android:name
+		ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:8:19-67
+application
+ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:10:5-41:19
+MERGED from [com.android.support:design:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/9e6f33ea76f86dd6660d6e35cbc39845/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/9e6f33ea76f86dd6660d6e35cbc39845/AndroidManifest.xml:22:5-20
+MERGED from [com.wonderkiln:camerakit:0.13.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/90c03d1cd2e46d648cb923adad094552/AndroidManifest.xml:25:5-20
+MERGED from [com.wonderkiln:camerakit:0.13.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/90c03d1cd2e46d648cb923adad094552/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/29149cc7947304334d076c8eb83d5220/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/29149cc7947304334d076c8eb83d5220/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/c0d3bd0d51cf0d91362c49436f923a48/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/c0d3bd0d51cf0d91362c49436f923a48/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/e446386ea450a781f2d75024b7fff277/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/e446386ea450a781f2d75024b7fff277/AndroidManifest.xml:22:5-23:19
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/41448476190de88ea7b10419777f8e41/AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/41448476190de88ea7b10419777f8e41/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/c0d3bd0d51cf0d91362c49436f923a48/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:13:9-53
+	android:roundIcon
+		ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:14:9-50
+	android:icon
+		ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:12:9-45
+	android:allowBackup
+		ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:16:9-65
+activity#com.herbal.doh.tflitecamerademo.Project_Info
+ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:17:9-90
+	android:name
+		ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:17:19-78
+activity#com.herbal.doh.tflitecamerademo.Developers
+ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:18:9-79
+	android:name
+		ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:18:19-76
+activity#com.herbal.doh.tflitecamerademo.CameraActivity
+ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:19:9-27:20
+	android:screenOrientation
+		ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:21:13-49
+	android:name
+		ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:20:13-74
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:25:27-74
+activity#com.herbal.doh.tflitecamerademo.YerbaBuena
+ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:28:9-79
+	android:name
+		ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:28:19-76
+activity#com.herbal.doh.tflitecamerademo.Bayabas
+ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:29:9-76
+	android:name
+		ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:29:19-73
+activity#com.herbal.doh.tflitecamerademo.Bawang
+ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:30:9-75
+	android:name
+		ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:30:19-72
+activity#com.herbal.doh.tflitecamerademo.UlasimangBato
+ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:31:9-82
+	android:name
+		ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:31:19-79
+activity#com.herbal.doh.tflitecamerademo.Lagundi
+ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:32:9-76
+	android:name
+		ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:32:19-73
+activity#com.herbal.doh.tflitecamerademo.Ampalaya
+ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:33:9-77
+	android:name
+		ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:33:19-74
+activity#com.herbal.doh.tflitecamerademo.TsaangGubat
+ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:34:9-80
+	android:name
+		ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:34:19-77
+activity#com.herbal.doh.tflitecamerademo.NiyogNiyogan
+ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:35:9-81
+	android:name
+		ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:35:19-78
+activity#com.herbal.doh.tflitecamerademo.Akapulko
+ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:36:9-77
+	android:name
+		ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:36:19-74
+activity#com.herbal.doh.tflitecamerademo.Sambong
+ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:37:9-76
+	android:name
+		ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:37:19-73
+activity#com.herbal.doh.tflitecamerademo.Manual
+ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:38:9-75
+	android:name
+		ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:38:19-72
+activity#com.herbal.doh.tflitecamerademo.About
+ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:39:9-74
+	android:name
+		ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:39:19-71
+activity#com.herbal.doh.tflitecamerademo.Capture2Fragment
+ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:40:9-85
+	android:name
+		ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:40:19-82
+uses-sdk
+INJECTED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml
+INJECTED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/9e6f33ea76f86dd6660d6e35cbc39845/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/9e6f33ea76f86dd6660d6e35cbc39845/AndroidManifest.xml:20:5-44
+MERGED from [com.wonderkiln:camerakit:0.13.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/90c03d1cd2e46d648cb923adad094552/AndroidManifest.xml:6:5-8:41
+MERGED from [com.wonderkiln:camerakit:0.13.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/90c03d1cd2e46d648cb923adad094552/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/fbd64542d9f9344902ab13204f683078/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/fbd64542d9f9344902ab13204f683078/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/29149cc7947304334d076c8eb83d5220/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/29149cc7947304334d076c8eb83d5220/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/1724ec20f5378c89666a85e594031196/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/1724ec20f5378c89666a85e594031196/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/7e1cf860ece5a085c121e67133fd68a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/7e1cf860ece5a085c121e67133fd68a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/cdef5221db1a5343a2b09114c32ed3ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/cdef5221db1a5343a2b09114c32ed3ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/d513b143a2360230465a5123bd748716/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/d513b143a2360230465a5123bd748716/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/920f554cf7ba866243d152048f29eabf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/920f554cf7ba866243d152048f29eabf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/e899682160c140066f0c3f39cb6bb8d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/e899682160c140066f0c3f39cb6bb8d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/137aea48224609196295b6f00e1cfc2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/137aea48224609196295b6f00e1cfc2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/ccdcb3a2592e921f3d3c081569599856/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/ccdcb3a2592e921f3d3c081569599856/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/1d1d16477bd5d83d0c86e16ef03a6f69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/1d1d16477bd5d83d0c86e16ef03a6f69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/5a2b9cfc1c4f071d49f7338a555a740d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/5a2b9cfc1c4f071d49f7338a555a740d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/0f10bea5a231f8fdee54524185903b37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/0f10bea5a231f8fdee54524185903b37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/32ed81bceb2ce2611da3a2ec5595cc36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/32ed81bceb2ce2611da3a2ec5595cc36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/8684ceb2686399ab1c65d2f4884d84a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/8684ceb2686399ab1c65d2f4884d84a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/1a0508d4d99c4669405855e500ab4993/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/1a0508d4d99c4669405855e500ab4993/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/50c6959e248a9f6a169c473b23ce8afd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/50c6959e248a9f6a169c473b23ce8afd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/e0f37a60b234d19fbc9852c7d63e6ae8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/e0f37a60b234d19fbc9852c7d63e6ae8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/f6413a6d141857d427f1d149b1430d2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/f6413a6d141857d427f1d149b1430d2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/8eff9173d6565a1cac6ceffafa92b780/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/8eff9173d6565a1cac6ceffafa92b780/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/55095e01a2c8a61f32831f427d58e18b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/55095e01a2c8a61f32831f427d58e18b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/c0d3bd0d51cf0d91362c49436f923a48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/c0d3bd0d51cf0d91362c49436f923a48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/e446386ea450a781f2d75024b7fff277/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/e446386ea450a781f2d75024b7fff277/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/adc6453c3c92835415e62ea2ff8876a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/adc6453c3c92835415e62ea2ff8876a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/fe2a0ca31c080490e0e12ebe1ac93e80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/fe2a0ca31c080490e0e12ebe1ac93e80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/729c8669c0c924df438c0e74d29ca7ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/729c8669c0c924df438c0e74d29ca7ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/8e75627449b5c0a82d2ad743e0e476a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/8e75627449b5c0a82d2ad743e0e476a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.0.2] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/33470ecdb6895c02e902e2045166637a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.0.2] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/33470ecdb6895c02e902e2045166637a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/217bf7a4f7d9665033038b6c95ab16df/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/217bf7a4f7d9665033038b6c95ab16df/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/bec428ea48715663dcf1ea74b83f5032/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/bec428ea48715663dcf1ea74b83f5032/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/d25f4a652825dfb85793e8d1e7700568/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/d25f4a652825dfb85793e8d1e7700568/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/f84d1e68b1907a09a670bdac92047159/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/f84d1e68b1907a09a670bdac92047159/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/0713b11703f9ace6e6d1b6acb55ce712/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/0713b11703f9ace6e6d1b6acb55ce712/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/b81972940084a7571b72ef97fd2de183/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/b81972940084a7571b72ef97fd2de183/AndroidManifest.xml:20:5-44
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/41448476190de88ea7b10419777f8e41/AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/41448476190de88ea7b10419777f8e41/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml
+INJECTED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.wonderkiln:camerakit:0.13.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/90c03d1cd2e46d648cb923adad094552/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [com.wonderkiln:camerakit:0.13.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/90c03d1cd2e46d648cb923adad094552/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [com.wonderkiln:camerakit:0.13.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/90c03d1cd2e46d648cb923adad094552/AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from [com.wonderkiln:camerakit:0.13.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/90c03d1cd2e46d648cb923adad094552/AndroidManifest.xml:12:22-68
+uses-feature#android.hardware.camera.front
+ADDED from [com.wonderkiln:camerakit:0.13.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/90c03d1cd2e46d648cb923adad094552/AndroidManifest.xml:18:5-20:36
+	android:required
+		ADDED from [com.wonderkiln:camerakit:0.13.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/90c03d1cd2e46d648cb923adad094552/AndroidManifest.xml:20:9-33
+	android:name
+		ADDED from [com.wonderkiln:camerakit:0.13.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/90c03d1cd2e46d648cb923adad094552/AndroidManifest.xml:19:9-53
+uses-feature#android.hardware.microphone
+ADDED from [com.wonderkiln:camerakit:0.13.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/90c03d1cd2e46d648cb923adad094552/AndroidManifest.xml:21:5-23:36
+	android:required
+		ADDED from [com.wonderkiln:camerakit:0.13.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/90c03d1cd2e46d648cb923adad094552/AndroidManifest.xml:23:9-33
+	android:name
+		ADDED from [com.wonderkiln:camerakit:0.13.1] /home/actwhitehat27/.gradle/caches/transforms-2/files-2.1/90c03d1cd2e46d648cb923adad094552/AndroidManifest.xml:22:9-51
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/actwhitehat27/Documents/Herbal Plant Detection (Capstone Project)/tflite/app/src/main/AndroidManifest.xml:2:1-43:12 reason: com.wonderkiln.camerakit.core requested WRITE_EXTERNAL_STORAGE

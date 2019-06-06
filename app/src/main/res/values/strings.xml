@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+ Copyright 2014 The Android Open Source Project
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+-->
+<resources>
+    <string name="picture">Picture</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="toggle_turn_on">NN:On</string>
+    <string name="toggle_turn_off">NN:Off</string>
+    <string name="toggle">Use NNAPI</string>
+    <string name="hot">hot</string>
+    <string name="not">not</string>
+
+    <string name="take_photo">Take photo</string>
+    <string name="ins1">Hi there! Welcome to PITAHC Herbal Plant Detector Application\nPlease click the arrow below to read the instructions to follow that been given by the developers for the effective use of this application in detecting herbal plants...</string>
+    <string name="ins2">
+        Instruction 1:\n\nThe leave(s), branch with leaves or whole plant(s) should face the back camera of your device.
+    </string>
+    <string name="ins3">
+        Instruction 2:\n\nIts shape should fit in the camera view.
+    </string>
+    <string name="ins4">
+        Instruction 3:\n\nThe distance of the leave(s), branch with leaves or whole plant(s) from the camera should be enough, not too far and not too close.
+    </string>
+    <string name="ins5">
+        Instruction 4:\n\nTo navigate other features of the application just click the button at the bottom right of the screen .
+    </string>
+    <string name="ins6">
+        Thank you for reading the instructions!\n We hope that this application will be of great help to all, Click the information icon at the top right corner of your screen to read this instruction again...
+    </string>
+    <string name="toggle_camera">Toggle Camera</string>
+    <string name="detect_object">Detect Object</string>
+</resources>

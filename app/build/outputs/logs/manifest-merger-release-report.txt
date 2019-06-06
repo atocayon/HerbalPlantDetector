@@ -1,0 +1,252 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:2:1-42:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\40f085f17d3db672e5df32a79ef27cc5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\29edb88b33fd3ab3ea5725cc9bc05d7b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\3cc8ca8f5356518ff6aa5266ca390b02\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\1b24e14273a828d9521243a858a6a64c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\support-v13-28.0.0.aar\accf99e613b532103960182c88002b58\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\d30961322aad209ee9c5b226d87cef53\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\322a54d37125417b74ce6632456c2854\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\61c9110822b40f1c3accafd3dff30639\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\1050e6be463756fbf49e3bb82afb3c37\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\c7f2076c91931a58c457650ea0d660f8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\afe9293f59b21cbf36adb0f42caaf721\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\0120ee562a98bc9ad2dffad46a36473f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\4d23da149c1634b36ca43cb8784c77a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\ce04712559b97871bf84176a21df24a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\870c90472b5b4470ecbd49bd2cb56fe5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\c327519c7235a7ae78f9da0e544e5c4b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\45c0c3f5eb1f42896785f7d1acb66b71\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\6cc29709589430275a61b01c54903913\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e162599c22bc750c655364cd145dc4f8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\29bcf6cb720b51d6ff92e0539a12dc4c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\6840335045ad00f5b5e340cf20208224\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\041dce754ed42c670f4f87eb113ad845\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c367e938de2e914e946b8de5e429f960\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c947f8fc57df57140527d34115d384dc\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\19fdc074558ba3e66d518611a25603bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b4e3f6329c694198da7a40f453777e7a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\ee7185314201f54d18d4f47fc497edcd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\c1c95ab5caf72cf45ad9c5117c16b05f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d433401239d9dab5f160dc1569fe90f9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\84030149d149e00243537dbe19c8bfcd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\d578916762faaeee8447ee157a4fe384\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\db8c645f1b491600b50ce446be8d39ac\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\7332e3bead84c1a4f765e6a8514a08d9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3f5772fac05280064a576524f946dbb8\AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\58ab32c74ddc47fa3f23916088b91143\AndroidManifest.xml:2:1-11:12
+INJECTED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml
+		ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml
+		ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:5:22-62
+uses-feature#android.hardware.camera
+ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:7:5-60
+	android:name
+		ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:7:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:8:5-70
+	android:name
+		ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:8:19-67
+application
+ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:10:5-40:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\40f085f17d3db672e5df32a79ef27cc5\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\40f085f17d3db672e5df32a79ef27cc5\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\3cc8ca8f5356518ff6aa5266ca390b02\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\3cc8ca8f5356518ff6aa5266ca390b02\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c367e938de2e914e946b8de5e429f960\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c367e938de2e914e946b8de5e429f960\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c947f8fc57df57140527d34115d384dc\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c947f8fc57df57140527d34115d384dc\AndroidManifest.xml:22:5-23:19
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\58ab32c74ddc47fa3f23916088b91143\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\58ab32c74ddc47fa3f23916088b91143\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c367e938de2e914e946b8de5e429f960\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:13:9-51
+	android:roundIcon
+		ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:14:9-50
+	android:icon
+		ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:12:9-45
+	android:allowBackup
+		ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:16:9-65
+activity#com.herbal.DOH.tflitecamerademo.Project_Info
+ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:17:9-90
+	android:name
+		ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:17:19-78
+activity#com.herbal.DOH.tflitecamerademo.Developers
+ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:18:9-79
+	android:name
+		ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:18:19-76
+activity#com.herbal.DOH.tflitecamerademo.CameraActivity
+ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:19:9-27:20
+	android:screenOrientation
+		ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:21:13-49
+	android:name
+		ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:20:13-74
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.herbal.DOH.tflitecamerademo.YerbaBuena
+ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:28:9-79
+	android:name
+		ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:28:19-76
+activity#com.herbal.DOH.tflitecamerademo.Bayabas
+ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:29:9-76
+	android:name
+		ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:29:19-73
+activity#com.herbal.DOH.tflitecamerademo.Bawang
+ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:30:9-75
+	android:name
+		ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:30:19-72
+activity#com.herbal.DOH.tflitecamerademo.UlasimangBato
+ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:31:9-82
+	android:name
+		ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:31:19-79
+activity#com.herbal.DOH.tflitecamerademo.Lagundi
+ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:32:9-76
+	android:name
+		ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:32:19-73
+activity#com.herbal.DOH.tflitecamerademo.Ampalaya
+ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:33:9-77
+	android:name
+		ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:33:19-74
+activity#com.herbal.DOH.tflitecamerademo.TsaangGubat
+ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:34:9-80
+	android:name
+		ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:34:19-77
+activity#com.herbal.DOH.tflitecamerademo.NiyogNiyogan
+ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:35:9-81
+	android:name
+		ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:35:19-78
+activity#com.herbal.DOH.tflitecamerademo.Akapulko
+ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:36:9-77
+	android:name
+		ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:36:19-74
+activity#com.herbal.DOH.tflitecamerademo.Sambong
+ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:37:9-76
+	android:name
+		ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:37:19-73
+activity#com.herbal.DOH.tflitecamerademo.Manual
+ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:38:9-75
+	android:name
+		ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:38:19-72
+activity#com.herbal.DOH.tflitecamerademo.About
+ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:39:9-74
+	android:name
+		ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml:39:19-71
+uses-sdk
+INJECTED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml
+INJECTED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\40f085f17d3db672e5df32a79ef27cc5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\40f085f17d3db672e5df32a79ef27cc5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\29edb88b33fd3ab3ea5725cc9bc05d7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\29edb88b33fd3ab3ea5725cc9bc05d7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\3cc8ca8f5356518ff6aa5266ca390b02\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\3cc8ca8f5356518ff6aa5266ca390b02\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\1b24e14273a828d9521243a858a6a64c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\1b24e14273a828d9521243a858a6a64c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\support-v13-28.0.0.aar\accf99e613b532103960182c88002b58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\support-v13-28.0.0.aar\accf99e613b532103960182c88002b58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\d30961322aad209ee9c5b226d87cef53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\d30961322aad209ee9c5b226d87cef53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\322a54d37125417b74ce6632456c2854\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\322a54d37125417b74ce6632456c2854\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\61c9110822b40f1c3accafd3dff30639\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\61c9110822b40f1c3accafd3dff30639\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\1050e6be463756fbf49e3bb82afb3c37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\1050e6be463756fbf49e3bb82afb3c37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\c7f2076c91931a58c457650ea0d660f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\c7f2076c91931a58c457650ea0d660f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\afe9293f59b21cbf36adb0f42caaf721\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\afe9293f59b21cbf36adb0f42caaf721\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\0120ee562a98bc9ad2dffad46a36473f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\0120ee562a98bc9ad2dffad46a36473f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\4d23da149c1634b36ca43cb8784c77a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\4d23da149c1634b36ca43cb8784c77a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\ce04712559b97871bf84176a21df24a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\ce04712559b97871bf84176a21df24a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\870c90472b5b4470ecbd49bd2cb56fe5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\870c90472b5b4470ecbd49bd2cb56fe5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\c327519c7235a7ae78f9da0e544e5c4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\c327519c7235a7ae78f9da0e544e5c4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\45c0c3f5eb1f42896785f7d1acb66b71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\45c0c3f5eb1f42896785f7d1acb66b71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\6cc29709589430275a61b01c54903913\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\6cc29709589430275a61b01c54903913\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e162599c22bc750c655364cd145dc4f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e162599c22bc750c655364cd145dc4f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\29bcf6cb720b51d6ff92e0539a12dc4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\29bcf6cb720b51d6ff92e0539a12dc4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\6840335045ad00f5b5e340cf20208224\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\6840335045ad00f5b5e340cf20208224\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\041dce754ed42c670f4f87eb113ad845\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\041dce754ed42c670f4f87eb113ad845\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c367e938de2e914e946b8de5e429f960\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c367e938de2e914e946b8de5e429f960\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c947f8fc57df57140527d34115d384dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c947f8fc57df57140527d34115d384dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\19fdc074558ba3e66d518611a25603bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\19fdc074558ba3e66d518611a25603bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b4e3f6329c694198da7a40f453777e7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b4e3f6329c694198da7a40f453777e7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\ee7185314201f54d18d4f47fc497edcd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\ee7185314201f54d18d4f47fc497edcd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\c1c95ab5caf72cf45ad9c5117c16b05f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\c1c95ab5caf72cf45ad9c5117c16b05f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d433401239d9dab5f160dc1569fe90f9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d433401239d9dab5f160dc1569fe90f9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\84030149d149e00243537dbe19c8bfcd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\84030149d149e00243537dbe19c8bfcd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\d578916762faaeee8447ee157a4fe384\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\d578916762faaeee8447ee157a4fe384\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\db8c645f1b491600b50ce446be8d39ac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\db8c645f1b491600b50ce446be8d39ac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\7332e3bead84c1a4f765e6a8514a08d9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\7332e3bead84c1a4f765e6a8514a08d9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3f5772fac05280064a576524f946dbb8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3f5772fac05280064a576524f946dbb8\AndroidManifest.xml:20:5-44
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\58ab32c74ddc47fa3f23916088b91143\AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\act27\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\58ab32c74ddc47fa3f23916088b91143\AndroidManifest.xml:5:5-7:41
+INJECTED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml
+INJECTED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml
+		ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml
+		ADDED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Herbal Plant Detection (Capstone Project)\tflite\app\src\main\AndroidManifest.xml

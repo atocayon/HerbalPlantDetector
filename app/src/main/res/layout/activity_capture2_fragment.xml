@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000"
+    tools:context="com.herbal.doh.tflitecamerademo.Capture2Fragment">
+
+    <Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|top"
+        android:background="@color/design_default_color_primary"
+        >
+
+        <ImageButton
+            android:onClick="more"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@color/green"
+            android:backgroundTint="@color/design_default_color_primary"
+            android:padding="7dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/pitahc_logo" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PITAHC Herbal Plant Detector"
+            android:textColor="@android:color/white"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:padding="5dp"
+            />
+        <LinearLayout
+            android:gravity="right"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageButton
+                android:onClick="info"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:background="@color/design_default_color_primary"
+                android:padding="7dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/info" />
+        </LinearLayout>
+
+    </Toolbar>
+
+    <com.wonderkiln.camerakit.CameraView
+        android:layout_below="@+id/toolbar"
+        android:id="@+id/cameraView"
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:layout_centerInParent="true"
+        android:layout_gravity="center|top"/>
+
+    <ScrollView
+        android:layout_below="@+id/cameraView"
+        android:layout_width="match_parent"
+        android:layout_height="200dp">
+        <LinearLayout
+            android:id="@+id/linear"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_gravity="center|top"
+            android:gravity="center"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imageViewResult"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                android:layout_gravity="top"
+                android:padding="2dp"
+                android:visibility="gone"/>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:paddingTop="15dp"
+                    android:id="@+id/textViewResult"
+                    android:layout_width="match_parent"
+                    android:layout_height="298dp"
+                    android:layout_gravity="top"
+                    android:fadeScrollbars="false"
+                    android:gravity="start|end"
+                    android:maxLines="15"
+                    android:scrollbars="vertical"
+                    android:textAlignment="textStart"
+                    android:textColor="#FFF"
+                    android:textSize="20sp" />
+
+                <Button
+                    android:layout_below="@id/textViewResult"
+                    android:id="@+id/bawang"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom"
+                    android:background="@android:color/transparent"
+                    android:onClick="onclickbawang"
+                    android:text="Click here for more info..."
+                    android:textColor="#FFF"
+                    android:textSize="14sp"
+                    android:textStyle="italic"
+                    android:visibility="gone" />
+                <Button
+                    android:layout_below="@id/textViewResult"
+                    android:id="@+id/akapulko"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Click here for more info..."
+                    android:background="@android:color/transparent"
+                    android:textColor="#FFF"
+                    android:textSize="14sp"
+                    android:textStyle="italic"
+                    android:visibility="gone"
+                    android:onClick="onclickakapulko"
+                    android:layout_gravity="bottom"
+                    />
+                <Button
+                    android:layout_below="@id/textViewResult"
+                    android:id="@+id/ampalaya"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Click here for more info..."
+                    android:background="@android:color/transparent"
+                    android:textColor="#FFF"
+                    android:textSize="14sp"
+                    android:textStyle="italic"
+                    android:visibility="gone"
+                    android:onClick="onclickampalaya"
+                    android:layout_gravity="bottom"
+                    />
+                <Button
+                    android:layout_below="@id/textViewResult"
+                    android:id="@+id/bayabas"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Click here for more info..."
+                    android:background="@android:color/transparent"
+                    android:textColor="#FFF"
+                    android:textSize="14sp"
+                    android:textStyle="italic"
+                    android:visibility="gone"
+                    android:onClick="onclickbayabas"
+                    android:layout_gravity="bottom"
+                    />
+                <Button
+                    android:layout_below="@id/textViewResult"
+                    android:id="@+id/lagundi"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Click here for more info..."
+                    android:background="@android:color/transparent"
+                    android:textColor="#FFF"
+                    android:textSize="14sp"
+                    android:textStyle="italic"
+                    android:visibility="gone"
+                    android:onClick="onclicklagundi"
+                    android:layout_gravity="bottom"
+                    />
+                <Button
+                    android:layout_below="@id/textViewResult"
+                    android:id="@+id/niyog_niyogan"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Click here for more info..."
+                    android:background="@android:color/transparent"
+                    android:textColor="#FFF"
+                    android:textSize="14sp"
+                    android:textStyle="italic"
+                    android:visibility="gone"
+                    android:onClick="onclickniyog_niyogan"
+                    android:layout_gravity="bottom"
+                    />
+                <Button
+                    android:layout_below="@id/textViewResult"
+                    android:id="@+id/sambong"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Click here for more info..."
+                    android:background="@android:color/transparent"
+                    android:textColor="#FFF"
+                    android:textSize="14sp"
+                    android:textStyle="italic"
+                    android:visibility="gone"
+                    android:onClick="onclicksambong"
+                    android:layout_gravity="bottom"
+                    />
+                <Button
+                    android:layout_below="@id/textViewResult"
+                    android:id="@+id/tsaang_gubat"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Click here for more info..."
+                    android:background="@android:color/transparent"
+                    android:textColor="#FFF"
+                    android:textSize="14sp"
+                    android:textStyle="italic"
+                    android:visibility="gone"
+                    android:onClick="onclicktsaang_gubat"
+                    android:layout_gravity="bottom"
+                    />
+                <Button
+                    android:layout_below="@id/textViewResult"
+                    android:id="@+id/ulasimang_bato"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Click here for more info..."
+                    android:background="@android:color/transparent"
+                    android:textColor="#FFF"
+                    android:textSize="14sp"
+                    android:textStyle="italic"
+                    android:visibility="gone"
+                    android:onClick="onclickulasimang_bato"
+                    android:layout_gravity="bottom"
+                    />
+                <Button
+                    android:layout_below="@id/textViewResult"
+                    android:id="@+id/yerba_buena"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Click here for more info..."
+                    android:layout_gravity="bottom"
+                    android:background="@android:color/transparent"
+                    android:textColor="#FFF"
+                    android:textSize="14sp"
+                    android:textStyle="italic"
+                    android:visibility="gone"
+                    android:onClick="onclickyerba_buena"
+                    />
+
+            </RelativeLayout>
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+    <Button
+        android:layout_alignParentBottom="true"
+        android:id="@+id/btnDetectObject"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="Detect"
+        android:text="Detect Herbal Plant"
+        android:background="@color/green"
+        android:textStyle="bold"
+        android:textAllCaps="false"
+        android:textColor="#FFF"
+        android:textSize="20sp"
+        android:layout_margin="15dp"
+        />
+
+</RelativeLayout>

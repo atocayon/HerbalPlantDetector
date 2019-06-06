@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.herbal.doh.tflitecamerademo.About"
+    >
+
+    <Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#0000ff">
+        <ImageButton
+            android:id="@+id/back"
+            android:layout_marginLeft="0dp"
+            android:paddingLeft="0dp"
+            android:adjustViewBounds="true"
+            android:scaleType="fitCenter"
+            android:layout_width="60dp"
+            android:layout_height="50dp"
+            android:src="@drawable/back_arrow"
+            android:backgroundTint="#0000ff"
+            />
+        <TextView
+            android:fontFamily="sans-serif"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="About"
+            android:textColor="@android:color/white"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            />
+
+
+
+    </Toolbar>
+
+    <LinearLayout
+        android:id="@+id/logo"
+        android:layout_below="@+id/toolbar"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="80dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_marginTop="20dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:src="@drawable/pitahc_logo"
+            />
+        <TextView
+            android:fontFamily="sans-serif"
+            android:layout_marginTop="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:text="DOH Herbal Plants Detector"/>
+        <TextView
+            android:fontFamily="sans-serif"
+            android:layout_marginTop="0dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:text="Version 1.0"/>
+
+
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/dev"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/logo"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:elevation="8dp"
+        android:src="@drawable/dev_"/>
+
+    <Button
+        android:id="@+id/btn_dev"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_below="@+id/logo"
+        android:background="?android:attr/panelBackground" />
+    <ImageView
+        android:id="@+id/proj"
+        android:layout_below="@+id/dev"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:src="@drawable/proj_"
+        android:elevation="8dp"
+        android:layout_centerHorizontal="true"
+        />
+    <Button
+        android:id="@+id/btn_proj"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_below="@+id/dev"
+        android:background="?android:attr/panelBackground" />
+    <ImageView
+        android:layout_below="@+id/proj"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:src="@drawable/up_"
+        android:elevation="8dp"
+        android:layout_centerHorizontal="true"
+        />
+    <Button
+        android:id="@+id/btn_up"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_below="@+id/proj"
+        android:background="?android:attr/panelBackground" />
+
+</RelativeLayout>

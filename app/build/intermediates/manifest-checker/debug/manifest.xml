@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="android.example.com.tflitecamerademo"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="28" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <uses-feature
+        android:name="android.hardware.camera.front"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.microphone"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@drawable/pitahc_logo"
+        android:label="PITAHC Herbal Plant Detector"
+        android:roundIcon="@drawable/pitahc_logo"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        <activity android:name="com.herbal.doh.tflitecamerademo.Project_Info" />
+        <activity android:name="com.herbal.doh.tflitecamerademo.Developers" />
+        <activity
+            android:name="com.herbal.doh.tflitecamerademo.CameraActivity"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.herbal.doh.tflitecamerademo.YerbaBuena" />
+        <activity android:name="com.herbal.doh.tflitecamerademo.Bayabas" />
+        <activity android:name="com.herbal.doh.tflitecamerademo.Bawang" />
+        <activity android:name="com.herbal.doh.tflitecamerademo.UlasimangBato" />
+        <activity android:name="com.herbal.doh.tflitecamerademo.Lagundi" />
+        <activity android:name="com.herbal.doh.tflitecamerademo.Ampalaya" />
+        <activity android:name="com.herbal.doh.tflitecamerademo.TsaangGubat" />
+        <activity android:name="com.herbal.doh.tflitecamerademo.NiyogNiyogan" />
+        <activity android:name="com.herbal.doh.tflitecamerademo.Akapulko" />
+        <activity android:name="com.herbal.doh.tflitecamerademo.Sambong" />
+        <activity android:name="com.herbal.doh.tflitecamerademo.Manual" />
+        <activity android:name="com.herbal.doh.tflitecamerademo.About" />
+        <activity android:name="com.herbal.doh.tflitecamerademo.MainActivity" />
+
+        <provider
+            android:name="com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="android.example.com.tflitecamerademo.com.android.tools.ir.server.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>
